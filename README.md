@@ -18,8 +18,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/nandanjaggu/stock-price-prediction.git
-cd stock-price-prediction
+git [clone https://github.com/nandanjaggu/stock-price-prediction.git
+cd stock-price-prediction](https://github.com/Nandanjaggu/Stock-price-prediction-using-LSTM/tree/main/Stock-Price-Prediction-Project-Code)
 
 Install dependencies:
 
